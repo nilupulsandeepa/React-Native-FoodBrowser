@@ -1,5 +1,7 @@
+import Config from "react-native-config";
+
 const ApiEndpoints = {
-    BASE_URL: "https://www.themealdb.com/api/json/v1/1",
+    BASE_URL: Config.API_URL,
     CATEGORY_ENDPOINT: "/categories.php",
     SEARCH_MEAL_ENDPOINT: "/search.php?s=",
     MEAL_DETAILS_ENDPOINT: "/lookup.php?i=",
