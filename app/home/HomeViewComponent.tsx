@@ -7,12 +7,15 @@ import { debounce } from "lodash";
 import SearchViewComponent from "./SearchViewComponent";
 import React from "react";
 import CategorySearchViewComponent from "./CategorySearchViewComponent";
+import Config from 'react-native-config';
 
 const HomeViewComponent = ({ navigation }) => {
     let searchInput = useRef("");
     let searchInputRef = useRef(null);
     const [searchQuery, setSearchQuery] = useState("");
     const [selectedCategory, setSelectedCategory] = useState("");
+
+    const environment = Config["ENV"];
 
     const debounceHandler = debounce((value) => {
         console.log("Debounce : " + value);

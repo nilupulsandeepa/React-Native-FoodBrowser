@@ -27,17 +27,23 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = FoodRecipeBrowser/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = FoodRecipeBrowser/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = FoodRecipeBrowser/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		1ED05F12DA1729328E1F1833 /* Pods-FoodRecipeBrowser.stagedebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodRecipeBrowser.stagedebug.xcconfig"; path = "Target Support Files/Pods-FoodRecipeBrowser/Pods-FoodRecipeBrowser.stagedebug.xcconfig"; sourceTree = "<group>"; };
 		36844F5E14254F88BA47AB47 /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Regular.ttf"; path = "../assets/fonts/Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-FoodRecipeBrowser.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodRecipeBrowser.debug.xcconfig"; path = "Target Support Files/Pods-FoodRecipeBrowser/Pods-FoodRecipeBrowser.debug.xcconfig"; sourceTree = "<group>"; };
+		415644CD344C4402E609527A /* Pods-FoodRecipeBrowser.devdebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodRecipeBrowser.devdebug.xcconfig"; path = "Target Support Files/Pods-FoodRecipeBrowser/Pods-FoodRecipeBrowser.devdebug.xcconfig"; sourceTree = "<group>"; };
+		519E56C9923FEB3196AE1A2B /* Pods-FoodRecipeBrowser.stagerelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodRecipeBrowser.stagerelease.xcconfig"; path = "Target Support Files/Pods-FoodRecipeBrowser/Pods-FoodRecipeBrowser.stagerelease.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-FoodRecipeBrowser.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodRecipeBrowser.release.xcconfig"; path = "Target Support Files/Pods-FoodRecipeBrowser/Pods-FoodRecipeBrowser.release.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-FoodRecipeBrowser.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FoodRecipeBrowser.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		722D9213FD974F01927AC044 /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Bold.ttf"; path = "../assets/fonts/Ubuntu-Bold.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = FoodRecipeBrowser/AppDelegate.swift; sourceTree = "<group>"; };
 		7DD34381EDFD4A0795983F60 /* Ubuntu-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Light.ttf"; path = "../assets/fonts/Ubuntu-Light.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = FoodRecipeBrowser/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		899E465878A637BD99059502 /* Pods-FoodRecipeBrowser.prodrelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodRecipeBrowser.prodrelease.xcconfig"; path = "Target Support Files/Pods-FoodRecipeBrowser/Pods-FoodRecipeBrowser.prodrelease.xcconfig"; sourceTree = "<group>"; };
 		A2B785FA97CA42F49DA1A9D8 /* Ubuntu-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-BoldItalic.ttf"; path = "../assets/fonts/Ubuntu-BoldItalic.ttf"; sourceTree = "<group>"; };
+		AD0271EEF09B5F4D75194817 /* Pods-FoodRecipeBrowser.devrelease.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodRecipeBrowser.devrelease.xcconfig"; path = "Target Support Files/Pods-FoodRecipeBrowser/Pods-FoodRecipeBrowser.devrelease.xcconfig"; sourceTree = "<group>"; };
 		B66886CEA5774E9D8F875E57 /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Medium.ttf"; path = "../assets/fonts/Ubuntu-Medium.ttf"; sourceTree = "<group>"; };
 		DD1E5F88DE8F4F1F8A8B7446 /* Ubuntu-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-MediumItalic.ttf"; path = "../assets/fonts/Ubuntu-MediumItalic.ttf"; sourceTree = "<group>"; };
+		E2C8D7A5A9AACE5554D27AB7 /* Pods-FoodRecipeBrowser.proddebug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodRecipeBrowser.proddebug.xcconfig"; path = "Target Support Files/Pods-FoodRecipeBrowser/Pods-FoodRecipeBrowser.proddebug.xcconfig"; sourceTree = "<group>"; };
 		E36EE242C28641E8B0DDD0C0 /* Ubuntu-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Italic.ttf"; path = "../assets/fonts/Ubuntu-Italic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		FD1E8A2174DD45AB97C9C37A /* Ubuntu-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-LightItalic.ttf"; path = "../assets/fonts/Ubuntu-LightItalic.ttf"; sourceTree = "<group>"; };
@@ -126,6 +132,12 @@
 			children = (
 				3B4392A12AC88292D35C810B /* Pods-FoodRecipeBrowser.debug.xcconfig */,
 				5709B34CF0A7D63546082F79 /* Pods-FoodRecipeBrowser.release.xcconfig */,
+				1ED05F12DA1729328E1F1833 /* Pods-FoodRecipeBrowser.stagedebug.xcconfig */,
+				E2C8D7A5A9AACE5554D27AB7 /* Pods-FoodRecipeBrowser.proddebug.xcconfig */,
+				415644CD344C4402E609527A /* Pods-FoodRecipeBrowser.devdebug.xcconfig */,
+				519E56C9923FEB3196AE1A2B /* Pods-FoodRecipeBrowser.stagerelease.xcconfig */,
+				899E465878A637BD99059502 /* Pods-FoodRecipeBrowser.prodrelease.xcconfig */,
+				AD0271EEF09B5F4D75194817 /* Pods-FoodRecipeBrowser.devrelease.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -418,10 +430,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
@@ -490,10 +499,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
