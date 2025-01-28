@@ -41,7 +41,8 @@
 # Run Instructions
 1) Clone the project
 2) Run npm install
-3) Run npm run ios-dev to run iOS development build
-4) Run npm run ios-prod to run iOS production build
-5) Run npm run android-dev to run Android development build
-6) Run npm run android-prod to run Android production build
+3) Run npm test for unit tests
+4) Run npm run ios-dev to run iOS development build
+5) Run npm run ios-prod to run iOS production build
+6) Run npm run android-dev to run Android development build
+7) Run npm run android-prod to run Android production build
