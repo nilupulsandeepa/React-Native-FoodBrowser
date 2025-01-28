@@ -12,8 +12,8 @@
     "set-production": "ENVFILE=.env.production",
     "ios-dev": "ENVFILE=.env.development react-native run-ios --mode=Debug --scheme \"development\"",
     "ios-prod": "ENVFILE=.env.production react-native run-ios --mode=Debug --scheme \"production\"",
-    "android-dev": "ENVFILE=.env.development react-native run-android",
-    "android-prod": "ENVFILE=.env.production react-native run-android"
+    "android-dev": "ENVFILE=.env.development react-native run-android --mode=developmentDebug",
+    "android-prod": "ENVFILE=.env.production react-native run-android --mode=productionDebug"
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^2.1.0",
